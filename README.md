@@ -11,8 +11,7 @@ I'm a passionate web developer and a lifelong learner from Indonesia. I enjoy bu
 - 💬 **Ask me about:** HTML, CSS, and the basics of web design.
 - 📫 **How to reach me:** [nabil.fathan@email.com](mailto:nabil.fathan@email.com)
 - 😄 **Pronouns:** He/Him
-- ⚡ **Fun fact:** I can solve a Rubik's Cube in under a minute!
-
+- ⚡ **Fun fact:** I can play guitar
 ---
 
 ### 🛠️ Languages and Tools:
