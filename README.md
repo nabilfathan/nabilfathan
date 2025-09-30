@@ -5,7 +5,7 @@ I'm a passionate web developer and a lifelong learner from Indonesia. I enjoy bu
 ---
 
 - 🔭 **I’m currently working on:** A personal portfolio website to showcase my projects.
-- 🌱 **I’m currently learning:** JavaScript, React, and Node.js.
+- 🌱 **I’m currently learning:** Jaca, C++, JavaScript, React, and Node.js.
 - 👯 **I’m looking to collaborate on:** Open source projects related to front-end development.
 - 🤔 **I’m looking for help with:** Advanced CSS animations and state management in React.
 - 💬 **Ask me about:** HTML, CSS, and the basics of web design.
@@ -26,8 +26,7 @@ I'm a passionate web developer and a lifelong learner from Indonesia. I enjoy bu
 
 ---
 
-### 📊 My GitHub Stats:
+### 📈 My Contribution Graph
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nabilfathan&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="nabilfathan's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nabilfathan&layout=compact&langs_count=8&theme=dracula" alt="nabilfathan's top languages" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nabilfathan&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph" />
 </p>
