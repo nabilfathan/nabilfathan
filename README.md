@@ -18,10 +18,11 @@ I'm a passionate web developer and a lifelong learner from Indonesia. I enjoy bu
 ### 🛠️ Languages and Tools:
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,bootstrap,tailwind,figma,git,vscode,github,java,cpp" />
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,tailwind,figma,git,vscode,github,java,cpp" />
   </a>
 </p>
----
+
+----
 
 ### 📈 My Contribution Graph
 <p align="center">
