@@ -25,7 +25,12 @@ I'm a passionate web developer and a lifelong learner from Indonesia. I enjoy bu
   <a href="https://www.java.com/en/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="40" height="40"/> </a>
   <a href="https://isocpp.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/isocpp/isocpp-icon.svg" alt="java" width="40" height="40"/> ></a>
 </p>
-
+### 🚀 My Tech Stack
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,bootstrap,tailwind,figma,git,vscode,github" />
+  </a>
+</p>
 ---
 
 ### 📈 My Contribution Graph
