@@ -23,7 +23,7 @@ I'm a passionate web developer and a lifelong learner from Indonesia. I enjoy bu
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
   <a href="https://www.java.com/en/" target="_blank rel="nonferrer"><img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="40" height="40"/> </a>
-  <a href="https://www.java.com/en/" target="_blank rel="nonferrer"><img src="https://www.vectorlogo.zone/logos/cpp/cpp-icon.svg" alt="java" width="40" height="40"/> ></a>
+  <a href="https://www.java.com/en/" target="_blank rel="nonferrer"><img src="https://www.vectorlogo.zone/logos/c++/c++-icon.svg" alt="java" width="40" height="40"/> ></a>
  
 </p>
 
