@@ -27,3 +27,6 @@ I'm a passionate web developer and a lifelong learner from Indonesia. I enjoy bu
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=nabilfathan&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph" />
 </p>
+
+Kunjungi
+https://www.siswadigital.site/2026/03/04/macbook-m4-laptopnya-para-kreator/
