@@ -28,5 +28,3 @@ I'm a passionate web developer and a lifelong learner from Indonesia. I enjoy bu
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=nabilfathan&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph" />
 </p>
 
-Artikel
-https://www.siswadigital.site/2026/03/04/msi-bravo-15-laptop-full-amd-power-buat-kamu-yang-anti-mainstream/
