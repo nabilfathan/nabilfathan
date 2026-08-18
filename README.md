@@ -22,7 +22,6 @@
 - 😄 **Pronouns:** He/Him
 - ⚡ **Fun fact:** I can play guitar
 
-
 ---
 
 ### 🛠️ Languages and Tools:
@@ -34,19 +33,14 @@
 
 ----
 
-### 📈 My Contribution Graph
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nabilfathan&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph" />
-</p>
-
----
-
-### 👻 Pac-Man Contribution Maze
-
-Ini adalah bagian paling keren! Grafik kontribusi kamu akan otomatis di-render sebagai labirin Pac-Man setiap kali ada commit baru.
+### 🐍 Contribution Snake
 
 <div align="center">
-  <img src="https://github-readme-pacman.vercel.app/?username=nabilfathan&theme=darcula&count_color=facc15" alt="Nabil's Contribution Maze" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nabilfathan/nabilfathan/output/dist/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nabilfathan/nabilfathan/output/dist/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/nabilfathan/nabilfathan/output/dist/github-contribution-grid-snake.svg">
+  </picture>
 </div>
 
 ---
