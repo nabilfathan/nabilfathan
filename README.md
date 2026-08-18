@@ -47,8 +47,6 @@
 
 ### 📊 Dev Stats
 
-*(Statistik ini otomatis di-update)*
-
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=nabilfathan&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Nabil's GitHub Stats" />
 </div>
