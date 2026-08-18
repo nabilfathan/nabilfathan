@@ -22,40 +22,19 @@
 
 ---
 
-### 🛠️ Languages & Tools
+### 🛠️ Languages and Tools:
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,tailwind,figma,git,vscode,github,java,cpp,php,laravel,next" />
+  </a>
+</p>
 
-Untuk tampilan yang lebih rapi, kita bagi berdasarkan kategorinya:
+----
 
-**🎨 Frontend & Design**
-<br>
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,nextjs,figma" alt="Frontend Tools"/>
-</a>
-
-**⚙️ Backend & Core**
-<br>
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=php,laravel,java,cpp" alt="Backend Tools"/>
-</a>
-
-**🔧 Tools & Version Control**
-<br>
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode" alt="Development Tools"/>
-</a>
-
----
-
-### 📊 GitHub Analytics
-
-*(Statistik ini akan otomatis di-update oleh GitHub setiap kali kamu melakukan commit atau kontribusi)*
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nabilfathan&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Nabil's GitHub Stats" />
-  <br><br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nabilfathan&theme=tokyonight&hide_border=true&background=0D1117" alt="Nabil's Streak Stats" />
-</div>
-
+### 📈 My Contribution Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nabilfathan&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph" />
+</p>
 ---
 
 ### 📫 Let's Connect!
