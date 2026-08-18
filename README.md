@@ -13,15 +13,15 @@
 
 ### 🕹️ Controls: About the Player
 
-<p align="left">
-- 🔭 **Working On:** A personal portfolio website to showcase my projects.
-- 🌱 **Learning:** `Java`, `C++`, and mastering `React`.
-- 👯 **Collaborating:** Seeking open-source frontend projects.
-- 🤝 **Need Help:** Deep dives into advanced CSS and state management.
-- 💬 **Ask Me:** For a quick tip on HTML, CSS, or web design!
-- ⚡ **Fun Fact:** I play guitar (when not dodging ghosts). 🎸
-- 📫 **How to reach me:** [nabil.fathan@email.com](mailto:nabil.fathan@email.com)
-</p>
+- 🔭 **I’m currently working on:** A personal portfolio website to showcase my projects.
+- 🌱 **I’m currently learning:** Java, C++, JavaScript.
+- 👯 **I’m looking to collaborate on:** Open source projects related to front-end development.
+- 🤔 **I’m looking for help with:** Advanced CSS animations and state management in React.
+- 💬 **Ask me about:** HTML, CSS, and the basics of web design.
+- 📫 **How to reach me:** [nabil.fathan@email.com](mailto:akunmiliksaya10@gmail.com)
+- 😄 **Pronouns:** He/Him
+- ⚡ **Fun fact:** I can play guitar
+
 
 ---
 
