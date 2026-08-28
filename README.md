@@ -37,9 +37,9 @@
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nabilfathan/nabilfathan/output/dist/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nabilfathan/nabilfathan/output/dist/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/nabilfathan/nabilfathan/output/dist/github-contribution-grid-snake.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nabilfathan/nabilfathan/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nabilfathan/nabilfathan/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/nabilfathan/nabilfathan/output/github-contribution-grid-snake.svg">
   </picture>
 </div>
 
@@ -48,5 +48,5 @@
 ### 📊 Dev Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nabilfathan&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Nabil's GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nabilfathan&theme=vue-dark&hide_border=true" alt="Nabil's GitHub Stats" />
 </div>
