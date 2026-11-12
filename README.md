@@ -11,7 +11,7 @@
 
 ---
 
-### 🕹️ Controls: About the Player
+### 🕹️ Controls: About the Player 
 
 - 🔭 **I’m currently working on:** A personal portfolio website to showcase my projects.
 - 🌱 **I’m currently learning:** Java, C++, JavaScript.
