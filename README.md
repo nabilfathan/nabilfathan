@@ -20,7 +20,7 @@
 - 💬 **Ask me about:** HTML, CSS, and the basics of web design.
 - 📫 **How to reach me:** [nabil.fathan@email.com](mailto:akunmiliksaya10@gmail.com)
 - 😄 **Pronouns:** He/Him
-- ⚡ **Fun fact:** I can play guitar
+- ⚡ **Fun fact:** I can play guitar 
 
 ---
 
