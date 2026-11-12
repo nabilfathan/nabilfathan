@@ -6,21 +6,8 @@
 </div>
 
 <p align="center">
-  <em>Hi there! I'm <strong>Nabil Fathan</strong>, a web developer from Indonesia who loves navigating the coding maze and collecting new skills like power pellets.</em>
+  <em>Hi there! I'm <strong>Nabil Fathan</strong>, a web developer who loves navigating the coding maze and collecting new skills like power pellets.</em>
 </p>
-
----
-
-### 🕹️ Controls: About the Player
-
-- 🔭 **I’m currently working on:** A personal portfolio website to showcase my projects.
-- 🌱 **I’m currently learning:** Java, C++, JavaScript.
-- 👯 **I’m looking to collaborate on:** Open source projects related to front-end development.
-- 🤔 **I’m looking for help with:** Advanced CSS animations and state management in React.
-- 💬 **Ask me about:** HTML, CSS, and the basics of web design.
-- 📫 **How to reach me:** [nabil.fathan@email.com](mailto:akunmiliksaya10@gmail.com)
-- 😄 **Pronouns:** He/Him
-- ⚡ **Fun fact:** I can play guitar
 
 ---
 
