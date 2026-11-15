@@ -6,7 +6,7 @@
 </div>
 
 <p align="center">
-  <em>Hi there! I'm <strong>Nabil Fathan</strong>, a web developer who loves navigating the coding maze and collecting new skills like power pellets.</em>
+  <em>Hi there!, I'm using Github.</em>
 </p>
 
 ---
@@ -30,10 +30,4 @@
   </picture>
 </div>
 
----
 
-### 📊 Dev Stats
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nabilfathan&theme=vue-dark&hide_border=true" alt="Nabil's GitHub Stats" />
-</div>
