@@ -1,7 +1,7 @@
 <div align="center">
   <!-- Header Animasi Pac-Man -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=FBBF24&center=true&vCenter=true&width=600&lines=Welcome+to+Nabil%27s+Dev+Maze;Gulping+Code+one+commit+at+a+time;Avoiding+the+%F0%9F%91%BB+Bugs;Leveling+up+with+C++,+Java,+React" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=FBBF24&center=true&vCenter=true&width=600&lines=Welcome+to+Nabil%27s+Dev+Maze;Gulping+Code+one+commit+at+a+time;Avoiding+the+%F0%9F%91%BB+Bugs;Leveling+up+with+C++,+Java,+python" alt="Typing SVG" />
   </a>
 </div>
 
